@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.44f8b8b5.css",
-    "main.js": "/static/js/main.2afb2d99.js",
-    "static/js/787.618c8b01.chunk.js": "/static/js/787.618c8b01.chunk.js",
-    "index.html": "/index.html",
-    "static/media/icons8-telegram-24.svg": "/static/media/icons8-telegram-24.6c94fc576760beb5c950b52d44976db4.svg",
-    "main.44f8b8b5.css.map": "/static/css/main.44f8b8b5.css.map",
-    "main.2afb2d99.js.map": "/static/js/main.2afb2d99.js.map",
-    "787.618c8b01.chunk.js.map": "/static/js/787.618c8b01.chunk.js.map"
+    "main.css": "http://farakshin.github.io/schemadocs/static/css/main.44f8b8b5.css",
+    "main.js": "http://farakshin.github.io/schemadocs/static/js/main.2d78ad03.js",
+    "static/js/787.618c8b01.chunk.js": "http://farakshin.github.io/schemadocs/static/js/787.618c8b01.chunk.js",
+    "index.html": "http://farakshin.github.io/schemadocs/index.html",
+    "static/media/icons8-telegram-24.svg": "http://farakshin.github.io/schemadocs/static/media/icons8-telegram-24.6c94fc576760beb5c950b52d44976db4.svg",
+    "main.44f8b8b5.css.map": "http://farakshin.github.io/schemadocs/static/css/main.44f8b8b5.css.map",
+    "main.2d78ad03.js.map": "http://farakshin.github.io/schemadocs/static/js/main.2d78ad03.js.map",
+    "787.618c8b01.chunk.js.map": "http://farakshin.github.io/schemadocs/static/js/787.618c8b01.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.44f8b8b5.css",
-    "static/js/main.2afb2d99.js"
+    "static/js/main.2d78ad03.js"
   ]
 }
